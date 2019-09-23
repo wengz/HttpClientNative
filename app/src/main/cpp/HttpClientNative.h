@@ -1,0 +1,11 @@
+//
+// Created by wengzc on 2019/9/23.
+//
+
+#ifndef HTTPCLIENTNATIVE_HTTPCLIENTNATIVE_H
+#define HTTPCLIENTNATIVE_HTTPCLIENTNATIVE_H
+
+typedef int socket_t;
+#define INVALID_SOCKET (-1)
+
+#endif //HTTPCLIENTNATIVE_HTTPCLIENTNATIVE_H
